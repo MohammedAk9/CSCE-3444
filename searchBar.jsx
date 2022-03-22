@@ -5,21 +5,21 @@ import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
 import IconButton from '@mui/material/IconButton';
 import InputBase from '@mui/material/InputBase';
-import Badge from '@mui/material/Badge';
+//import Badge from '@mui/material/Badge';
 import MenuItem from '@mui/material/MenuItem';
 import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import * as React from 'react';
 import SearchIcon from '@mui/icons-material/Search';
 import AccountCircle from '@mui/icons-material/AccountCircle';
-import MailIcon from '@mui/icons-material/Mail';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import MoreIcon from '@mui/icons-material/MoreVert';
+//import MailIcon from '@mui/icons-material/Mail';
+//import NotificationsIcon from '@mui/icons-material/Notifications';
+//import MoreIcon from '@mui/icons-material/MoreVert';
 import { styled, alpha } from '@mui/material/styles'
-import Box from '@mui/material/Box';
-import Switch from '@mui/material/Switch';
-import FormControlLabel from '@mui/material/FormControlLabel';
-import FormGroup from '@mui/material/FormGroup';
+// import Box from '@mui/material/Box';
+// import Switch from '@mui/material/Switch';
+// import FormControlLabel from '@mui/material/FormControlLabel';
+// import FormGroup from '@mui/material/FormGroup';
 import HomeIcon from '@mui/icons-material/Home';
 
 
@@ -147,10 +147,10 @@ const Search = styled('div')(({ theme }) => (
                   horizontal: 'right',
                 }}
                 keepMounted
-                transformOrigin={{
-                  vertical: 'top',
-                  horizontal: 'right',
-                }}
+                // transformOrigin={{
+                //   vertical: 'top',
+                //   horizontal: 'right',
+                // }}
                 open={Boolean(anchorEl)}
                 onClose={handleClose}
               >
