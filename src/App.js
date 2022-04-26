@@ -5,7 +5,7 @@ import Footer from './components/footer';
 //import Home from './components/Home';
 import NavBar from './components/NavBar';
 //import Explore from './components/Explore';
-import { ThemeProvider } from '@mui/material/styles';
+//import { ThemeProvider } from '@mui/material/styles';
 
 
 import { useState } from 'react';
