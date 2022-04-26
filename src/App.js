@@ -22,7 +22,7 @@ export const useDarkMode = () => {
 function App() {
   return (
 
-    <ThemeProvider theme={useDarkMode}>
+    //<ThemeProvider theme={useDarkMode}>
       
     <div className="App">
       <NavBar />
@@ -31,7 +31,7 @@ function App() {
       </div>
       <Footer />
     </div>
-    </ThemeProvider>
+   // </ThemeProvider>
   );
 }
 
