@@ -14,7 +14,7 @@ export default class landing extends Component {
                 roomy cargo area and a long range on a full charge. This car also has an incredible 
                 acceleration rate going 0-60 in just 3 seconds!
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-2"></div>
@@ -24,7 +24,7 @@ export default class landing extends Component {
               (66%) in Bordeaux’s vineyards overall than Cabernet (22.5%). 
               This wine’s blend mirrors that, and its black- and red-currant flavors and aroma are equally classic.
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-3"></div>
@@ -34,7 +34,7 @@ export default class landing extends Component {
                 The sky marinated in Crimson, the low yet subtle light from the sunset in the background,
                 I think this could very well be heaven :D 
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-4"></div>
@@ -45,7 +45,7 @@ export default class landing extends Component {
               notes ranging from toasted nuts to spiced coffee to seasoned leather. 
               They are also a great price.
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-5"></div>
@@ -54,13 +54,13 @@ export default class landing extends Component {
                 On my morning run today, I happened to cross paths with this beauty. 
                 The 757 was always an incredible plane! A shame they continue to be retired :-(
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-6"></div>
               <h2>Title</h2>
               <p>Text</p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-7"></div>
@@ -70,7 +70,7 @@ export default class landing extends Component {
                 core and very juicy. Drizzled in only what could very well be their secret sauce
                 Hutchins did not dissapoint!
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
           <div className="card">
               <div className="card-image card-8"></div>
@@ -79,7 +79,7 @@ export default class landing extends Component {
                Easily one of the best budget end graphics card in the market. 
                incredible power draw and high frame rates make me recommend this to just about everyone!
               </p>
-              <a href="#">VISIT TOPPICK</a>
+              <a href="javascript:void(0);">VISIT TOPPICK</a>
           </div>
         </section>  
         
